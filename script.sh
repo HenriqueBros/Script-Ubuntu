@@ -5,11 +5,11 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 # Node
 
-sudo apt install node
+sudo apt-get install node
 
 # Snap
 
-sudo apt install snap
+sudo apt-get install snap
 
 # Vscode
 
