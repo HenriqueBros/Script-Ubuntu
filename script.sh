@@ -4,7 +4,7 @@
 sudo apt-get update && sudo apt-get upgrade -y
 
 # Node
-sudo apt-get install node -y
+sudo apt-get install nodejs -y
 
 # Snap
 sudo apt-get install snap -y
@@ -36,5 +36,5 @@ sudo apt-get update; \
   sudo apt-get install -y aspnetcore-runtime-6.0
   
 # neofetch
-sudo apt install neofetch
+sudo apt install neofetch -y
 
