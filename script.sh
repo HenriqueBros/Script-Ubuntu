@@ -15,6 +15,9 @@ sudo snap install code --classic
 # Scrcpy
 # sudo apt install scrcpy -y
 
+#telegram
+sudo snap install telegram-desktop
+
 # Notion
 sudo snap install notion -y
 
