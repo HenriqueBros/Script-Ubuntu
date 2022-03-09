@@ -19,7 +19,7 @@ sudo snap install code --classic
 sudo snap install telegram-desktop
 
 # Notion
-sudo snap install notion -y
+sudo snap install notion-snap
 
 # docker
 sudo apt-get install docker.io -y
