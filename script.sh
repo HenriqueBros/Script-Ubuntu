@@ -24,6 +24,9 @@ sudo snap install notion-snap -y
 # Figma
 sudo snap install figma-linux -y
 
+# E-Reader
+sudo apt install fbreader -y
+
 #MQTT
 sudo snap install mqttx -y
 
